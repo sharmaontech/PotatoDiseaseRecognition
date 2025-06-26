@@ -175,4 +175,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-> Made with ❤️ by [Padam Arora](https://github.com/PadamArora)
+> Made with ❤️ by [Luv Sharma](https://github.com/sharmaontech)
